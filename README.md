@@ -5,7 +5,8 @@
 
 # Introduction
 
-This guide explains how to use the Story Node Snapshot Downloader, a part of the comprehensive Story Node Manager. This tool allows users to easily download and install both pruned and archive snapshots for their Story nodes, significantly reducing synchronization time.
+- This guide explains how to use the Story Node Snapshot Downloader, a part of the comprehensive Story Node Manager. This tool allows users to easily download and install both pruned and archive snapshots for their Story nodes, significantly reducing synchronization time.
+- Snapshot service Website: [https://service.josephtran.xyz/testnet/story/snapshot/]
 
 # Features
 
@@ -32,6 +33,9 @@ Use arrow keys to navigate, Enter to select, or type the number of your choice.
 2. Choose download source
 3. Back to main menu
 ```
+
+<img src="assets/06-snapshot.png" style="width: 100%; height: 100%; object-fit: cover;" />
+
 ## 1. Install tools:
 `wget lz4 aria2 pv`
 This option installs the necessary tools for downloading and processing snapshots. It's recommended to run this first if you haven't installed these tools before.
@@ -49,6 +53,7 @@ Choose Download Source:
 - This option uses pre-configured URLs for both Story and Geth snapshots. These snapshots are regularly updated and tested for compatibility.
 - Input custom snapshot URLs
 - This option allows you to input custom URLs for both the Story and Geth snapshots. This is useful if you have access to other snapshot sources or want to use a specific version.
+<img src="assets/download-snapshot.png" style="width: 100%; height: 100%; object-fit: cover;" />
 
 ## 3. Back to main menu
 Returns to the main Story Node Manager menu.
