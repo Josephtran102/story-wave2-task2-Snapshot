@@ -50,10 +50,12 @@ Choose Download Source:
 3. Back
 ```
 <img src="assets/source-snapshot.png" style="width: 100%; height: 100%; object-fit: cover;" />
+
 - Download from JosephTran (recommended)
 - This option uses pre-configured URLs for both Story and Geth snapshots. These snapshots are regularly updated and tested for compatibility.
 - Input custom snapshot URLs
 - This option allows you to input custom URLs for both the Story and Geth snapshots. This is useful if you have access to other snapshot sources or want to use a specific version.
+
 <img src="assets/download-snapshot.png" style="width: 100%; height: 100%; object-fit: cover;" />
 
 ## 3. Back to main menu
