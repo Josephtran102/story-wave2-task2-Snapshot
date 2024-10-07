@@ -74,7 +74,7 @@ Our web service provides:
 - Detailed instructions on how to use the snapshots
 - Information about snapshot sizes and synchronization times
 
-## 📫 If you need any help. Contact to me:
+## 📫 If you need any help. Please contact to me:
 
 [![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://service.josephtran.xyz/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/josephtran102)
