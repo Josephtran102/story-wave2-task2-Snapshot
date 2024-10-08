@@ -6,6 +6,7 @@
 # Introduction
 
 - This guide explains how to use the Story Node Snapshot Downloader, a part of the comprehensive Story Node Manager. This tool allows users to easily download and install both pruned and archive snapshots for their Story nodes, significantly reducing synchronization time.
+
 - Snapshot service Website: [https://service.josephtran.xyz/testnet/story/snapshot/]
 
 <img src="assets/webdownload-snap.png" style="width: 100%; height: 100%; object-fit: cover;" />
